@@ -1,0 +1,6 @@
+name: Test Mobile CI
+
+on:
+  push:
+    branches:
+      - master
